@@ -1,0 +1,6 @@
+Player G A RC PS
+Mehmet Ekinci 9 11 0 10
+Volkan Sen 12 8 1 15
+Caner Erkin 3 8 2 8
+Selcuk Inan 4 8 0 13
+Felipe Melo 1 1 0 17
